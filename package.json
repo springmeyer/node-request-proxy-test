@@ -1,0 +1,9 @@
+{
+  "name"          : "proxy-test",
+  "description"   : "proxy test using same version of request used in TileMill",
+  "version"       : "0.0.1",
+  "main"          : "./test.js",
+  "dependencies"  : {
+      "request": "~2.26.0"
+  }
+}
